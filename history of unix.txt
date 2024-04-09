@@ -1,0 +1,7 @@
+It all started in 1969, when two Bell Labs computer scientists were looking for a new research project. Ken Thompson and Dennis Ritchie had spent the last half of the decade working on an experimental time-sharing operating system for mainframes called Multics as part of a joint research group with General Electric and MIT. The Multics project was high on ambition but fraught with problems, leading AT&T to withdraw from the effort. That left Thompson, Ritchie and several other Bell Labs researchers in search of a new problem to solve. They decided to take the best ideas from Multics and implement them on a smaller scale — specifically, on a little-used PDP-7 minicomputer at Bell Labs. That summer Unix was born.
+
+ritchie-thompson-unix.png
+unix-86-300769.jpg
+A woman enters copy using Unix.
+
+Unix made large-scale networking of diverse computing systems — and the internet — practical. The Unix team went on to develop the C language, which brought an unprecedented combination of efficiency and expressiveness to programming. Both made computing more “portable. ” Today, Linux, the most popular descendent of Unix, powers the vast majority of servers, and elements of Unix and Linux are found in most mobile devices. Meanwhile, C++ remains one of the most widely used programming languages today. Unix may be a half-century old but its influence is only growing. Learn more about the history of Unix by exploring this Unix timeline.
